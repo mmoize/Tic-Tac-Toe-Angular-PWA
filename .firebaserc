@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-angular-pwa-28418": {
+      "hosting": {
+        "Tic-Tac-Toe": [
+          "tic-tac-toe-angular-pwa-28418"
+        ]
+      }
+    }
+  }
+}
